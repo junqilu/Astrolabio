@@ -17,3 +17,9 @@ Human Astrocytes Exhibit Tumor Microenvironment-, Age-, and Sex-Related Transcri
 Mapping the developmental trajectory of human astrocytes reveals divergence in glioblastoma: https://www.nature.com/articles/s41556-024-01583-9
 * s41556-024-01583-9
 * GBM margin vs. core astrocytes
+
+Purification and Characterization of Progenitor and Mature Human Astrocytes Reveals Transcriptional and Functional Differences with Mouse: https://www.sciencedirect.com/science/article/pii/S0896627315010193?via%3Dihub
+* j.neuron.2015.11.013
+* GBM/tumor vs normal adult cortical astrocytes
+
+Input data are stored in the directory `input`. The `output` is for the analysis results. 
