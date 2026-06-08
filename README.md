@@ -13,3 +13,7 @@ Tumor-associated reactive astrocytes aid the evolution of immunosuppressive envi
 Human Astrocytes Exhibit Tumor Microenvironment-, Age-, and Sex-Related Transcriptomic Signatures: https://www.jneurosci.org/content/42/8/1587.long
 * JNEUROSCI.0407-21.2021
 * Peritumoral vs. normal astrocytes
+
+Mapping the developmental trajectory of human astrocytes reveals divergence in glioblastoma: https://www.nature.com/articles/s41556-024-01583-9
+* s41556-024-01583-9
+* GBM margin vs. core astrocytes
